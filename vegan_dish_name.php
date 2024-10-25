@@ -47,7 +47,7 @@ function vegan_dish_name_generator_page() {
 
 // Function to generate a unique vegan dish name and return it with category slug
 function generate_unique_vegan_dish_name_with_chatgpt() {
-    $api_key = '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'; // Replace with your actual OpenAI API key
+    $api_key = 'API_KEY'; // Replace with your actual OpenAI API key
 
     // Define the cuisine ingredients categorized by frequency
     $cuisine_ingredients = array(

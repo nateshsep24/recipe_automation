@@ -46,7 +46,7 @@ function non_veg_dish_name_generator_page() {
 
 // Function to generate a unique non-veg dish name and return it with category slug
 function generate_unique_non_veg_dish_name_with_chatgpt() {
-    $api_key = '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'; // Replace with your actual OpenAI API key
+    $api_key = 'API_KEY'; // Replace with your actual OpenAI API key
 
     // Cuisine ingredients classified by frequency
     $cuisine_ingredients_classified = array(

@@ -46,7 +46,7 @@ function vegetarian_dish_name_generator_page() {
 
 // Function to generate a unique vegetarian dish name with weighted ingredient selection
 function generate_unique_vegetarian_dish_name_with_chatgpt() {
-    $api_key = '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';
+    $api_key = 'API_KEY';
 
     // Vegetarian cuisine-to-ingredient mapping with frequency categorization
 $cuisine_ingredients = array(

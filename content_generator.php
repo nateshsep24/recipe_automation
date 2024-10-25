@@ -78,7 +78,7 @@ function dish_content_creator_page() {
 
 // Function to generate content and create a new post
 function generate_dish_content_and_create_post($dish_type) {
-    $api_key = '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'; // Replace with your actual API key
+    $api_key = 'API_KEY'; // Replace with your actual API key
 
     // Call the relevant Dish Name Generator function
     $dish_info = [];
